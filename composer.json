@@ -1,0 +1,17 @@
+{
+    "name": "programmerzamannow/belajar-php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Programmerzamannow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamdan Yuapi",
+            "email": "hamdan06yuapi@gmail.com"
+        }
+    ],
+    "require": {}
+}
